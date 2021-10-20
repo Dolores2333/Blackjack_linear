@@ -2,13 +2,11 @@
 
 Author: ZHA Mengyue
 
-SID: 20668901
-
 Math Department of HKUST
 
  [More on Github Repository](https://github.com/Dolores2333/Blackjack_linear)
 
-![casino](/Users/zhamengyue/Documents/UST2021Fall/MATH6450I/HW/Blackjack_linear/casino.png)
+![casino](https://github.com/Dolores2333/Blackjack_linear/blob/main/casino.png)
 
 ## Problem Statement
 
@@ -221,17 +219,17 @@ We only take the update=QL as example and you should refer to Blackjack/storage/
 
 QL_best_value visualization
 
-![QL_bestvalue_visualization](/Users/zhamengyue/Documents/UST2021Fall/MATH6450I/HW/Blackjack_linear/storage/m0n2/pic/QL_bestvalue_visualization.png)
+![QL_bestvalue_visualization](https://github.com/Dolores2333/Blackjack_linear/blob/main/storage/m0n2/pic/QL_bestvalue_visualization.png)
 
 QL_epsilon_value visualization
 
-![QL_epsilonvalue_visualization](/Users/zhamengyue/Documents/UST2021Fall/MATH6450I/HW/Blackjack_linear/storage/m0n2/pic/QL_epsilonvalue_visualization.png)
+![QL_epsilonvalue_visualization](https://github.com/Dolores2333/Blackjack_linear/blob/main/storage/m0n2/pic/QL_epsilonvalue_visualization.png)
 
 Remark
 
 Since I forgot to add the labels for x-axis, y-axis and z-axis when doing the experiment, their position and labels are denoted by the following Pseudo Value Function Plot. All axes' arrangements in the figures of this repository follow the [left-hand rule](https://en.wikipedia.org/wiki/Fleming%27s_left-hand_rule_for_motors).  You may refer to the following pic to identify the arrangement and meaning of the x, y, z axes. 
 
-![axis_example](/Users/zhamengyue/Documents/UST2021Fall/MATH6450I/HW/Blackjack_linear/axis_example.png)
+![axis_example](https://github.com/Dolores2333/Blackjack_linear/blob/main/axis_example.png)
 
 #### Player Performance Visualization
 
@@ -239,11 +237,11 @@ Since I forgot to add the labels for x-axis, y-axis and z-axis when doing the ex
 
 MC_best_player_1 visualization
 
-![MC_best_player_1_performance_plot](/Users/zhamengyue/Documents/UST2021Fall/MATH6450I/HW/Blackjack_linear/storage/m0n2/pic/MC_best_player_1_performance_plot.png)
+![MC_best_player_1_performance_plot](https://github.com/Dolores2333/Blackjack_linear/blob/main/storage/m0n2/pic/MC_best_player_1_performance_plot.png)
 
 MC_epsilon_player_1 vs. MC_best_player_1 visualization
 
-![MC_epsilon_player_1_performance_plot](/Users/zhamengyue/Documents/UST2021Fall/MATH6450I/HW/Blackjack_linear/storage/m0n2/pic/MC_epsilon_player_1_performance_plot.png)
+![MC_epsilon_player_1_performance_plot](https://github.com/Dolores2333/Blackjack_linear/blob/main/storage/m0n2/pic/MC_epsilon_player_1_performance_plot.png)
 
 We see clearly that under the update rule MC, the player with epsilon greedy policy performs consistently better than they player with the deterministic best policy. The outcome shows that **expolration is important !!!**
 
